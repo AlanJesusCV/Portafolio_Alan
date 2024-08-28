@@ -1,13 +1,12 @@
 import React from 'react';
-import { ListadoProyectos } from './ListadoProyectos';
+import { ProyectList } from './ProyectList';
 
-export const Portafolio = () => {
+export const Portfolio = () => {
   
   return (
     <div className="page">
       <h1 className="heading">Portafolio</h1>
-
-      <ListadoProyectos />
+      <ProyectList />
     </div>
   )
 }

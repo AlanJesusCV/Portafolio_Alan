@@ -1,4 +1,4 @@
-export const trabajosJson = [
+export const worksJson = [
     {
         'id': 'SGCCV',
         'nombre': 'Sistema de Gestión de Cobranza de Cartera Vencida',
