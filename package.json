@@ -2,7 +2,7 @@
   "name": "portafolio_alan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AlanJesusCV/Portafolio_Alan.git",
+  "homepage": "https://alanjesuscv.github.io/Portafolio_Alan/",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
