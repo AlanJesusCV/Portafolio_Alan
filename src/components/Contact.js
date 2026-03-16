@@ -7,7 +7,7 @@ export const Contact = () => {
       <h2>Dirección</h2>
       <p>Emiliano Zapata, Morelos, México (disponibilidad para cambio de residencia).</p>
       <h2>Número de teléfono</h2>
-      <p>+52 777-236-22-43</p>
+      <p>+52 777-216-55-59</p>
       <h2>Correo electrónico</h2>
       <p>alanjesuscv@gmail.com</p>
       <h2>GitHub</h2>
